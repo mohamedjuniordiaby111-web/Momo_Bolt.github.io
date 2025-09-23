@@ -1,36 +1,98 @@
 # Momo_Bolt.github.io
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Portfolio de TAKOUE DIABY</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        img {
+            width: 150px;
+            border-radius: 50%;
+            position: absolute;
+            top: 30px;
+            right: 30px;
+        }
+        h1, h2, h3 {
+            margin: 10px;
+        }
+        h1 {
+            font-size: 2.5em;
+        }
+        h2 {
+            font-size: 1.5em;
+            color: #4CAF50;
+        }
+        h3 {
+            font-size: 1.2em;
+        }
+        .container {
+            padding: 20px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        .contact-info a {
+            color: #4CAF50;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
 
-<html>
-    <head>
-        <body>
-            <img src="https://static.wikia.nocookie.net/hunterxhunter/images/2/29/Hisoka_Morow_YC_Portrait.png/revision/latest?cb=20190123172039">
-           <h1>E-Portfolio</h1>
-           <h1>Nom : TAKOUE DIABY</h1>
-            <bold>Prenom : Mohamed Junior</bold>
-            <h2>Linkedin : <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit">Momo_Bolt</a></h2>
-            <br>
-            <h2 style="margin left: 20px;"> competence : </h2>
+<header>
+    <h1>E-Portfolio de TAKOUE DIABY</h1>
+</header>
 
-
-            <h3 style="margin left: 50px;"> -Amelioration</h3>
-            <h3 style="margin left: 50px;"> -HTML</h3>
-
-        </body>
-        <style>
-            img{
-                width: 20%;
-                position: absolute;
-                left: 80%;
-
-
-
-
-            }
+<div class="container">
+    <img src="https://static.wikia.nocookie.net/hunterxhunter/images/2/29/Hisoka_Morow_YC_Portrait.png/revision/latest?cb=20190123172039" alt="Photo de TAKOUE DIABY">
     
+    <h2>Nom : TAKOUE DIABY</h2>
+    <h3><strong>Prénom :</strong> Mohamed Junior</h3>
+    
+    <div class="contact-info">
+        <h3>LinkedIn : <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">MomoBolt</a></h3>
+    </div>
+
+    <h2>Compétences :</h2>
+    <ul>
+        <li>Amélioration continue</li>
+        <li>HTML</li>
+        <li>Développement web</li>
+    </ul>
+</div>
+
+<footer>
+    <p>&copy; 2025 TAKOUE DIABY. Tous droits réservés.</p>
+</footer>
+
+</body>
+</html>
 
 
 
-        </style>
 
 
     
