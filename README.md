@@ -1,5 +1,4 @@
 # Momo_Bolt.github.io
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
 <html>
     <head>
@@ -9,7 +8,7 @@
            <h1>Nom : TAKOUE DIABY</h1>
             <bold>Prenom : Mohamed Junior</bold>
             <h2>Linkedin : <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit">Momo_Bolt</a></h2>
-            <br></br>
+            <br>
             <h2 style="margin left: 20px;"> competence : </h2>
 
 
@@ -33,6 +32,5 @@
 
         </style>
 
-        </body>
 
-</html>
+    
